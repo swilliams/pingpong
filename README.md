@@ -41,6 +41,11 @@ Achievements
   <td>Win 3 matches against the same person without losing</td>
 </tr>
 <tr>
+  <td>10</td>
+  <td>Hubris, Thy Name is Ping Pong</td>
+  <td>Lose a match, convince the victor to go best of 5, then beat them.</td>
+</tr>
+<tr>
   <td>50</td>
   <td>M-M-M-MONSTER KILL</td>
   <td>Win a match against 5 different people without losing</td>
